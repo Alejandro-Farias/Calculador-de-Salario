@@ -1,0 +1,6 @@
+F:\LOGICA\Lista_03\Lista_03_Exe_04\Lista_03_Exe_04\bin\Debug\Lista_03_Exe_04.exe.config
+F:\LOGICA\Lista_03\Lista_03_Exe_04\Lista_03_Exe_04\bin\Debug\Lista_03_Exe_04.exe
+F:\LOGICA\Lista_03\Lista_03_Exe_04\Lista_03_Exe_04\bin\Debug\Lista_03_Exe_04.pdb
+F:\LOGICA\Lista_03\Lista_03_Exe_04\Lista_03_Exe_04\obj\Debug\Lista_03_Exe_04.csprojResolveAssemblyReference.cache
+F:\LOGICA\Lista_03\Lista_03_Exe_04\Lista_03_Exe_04\obj\Debug\Lista_03_Exe_04.exe
+F:\LOGICA\Lista_03\Lista_03_Exe_04\Lista_03_Exe_04\obj\Debug\Lista_03_Exe_04.pdb
